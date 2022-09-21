@@ -1,0 +1,15 @@
+E:\c# projects\vowel_counter\bin\Debug\net6.0\vowel_counter.exe
+E:\c# projects\vowel_counter\bin\Debug\net6.0\vowel_counter.deps.json
+E:\c# projects\vowel_counter\bin\Debug\net6.0\vowel_counter.runtimeconfig.json
+E:\c# projects\vowel_counter\bin\Debug\net6.0\vowel_counter.dll
+E:\c# projects\vowel_counter\bin\Debug\net6.0\vowel_counter.pdb
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.csproj.AssemblyReference.cache
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.AssemblyInfoInputs.cache
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.AssemblyInfo.cs
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.csproj.CoreCompileInputs.cache
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.dll
+E:\c# projects\vowel_counter\obj\Debug\net6.0\refint\vowel_counter.dll
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.pdb
+E:\c# projects\vowel_counter\obj\Debug\net6.0\vowel_counter.genruntimeconfig.cache
+E:\c# projects\vowel_counter\obj\Debug\net6.0\ref\vowel_counter.dll
